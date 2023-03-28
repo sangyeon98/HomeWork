@@ -93,6 +93,7 @@ public class AllList extends JFrame implements ActionListener{
 		JButton closeButton = new JButton("닫기");
 		closeButton.addActionListener(this);
 		
+		System.out.println();
 //		JPanel mainPanel = new JPanel();
 //		mainPanel.setLayout(new BorderLayout());
 //		mainPanel.add(new JScrollPane(table), BorderLayout.NORTH);
